@@ -1,0 +1,10 @@
+D:\VS\Pr_2\Pr_2\bin\Debug\Pr_2.exe.config
+D:\VS\Pr_2\Pr_2\bin\Debug\Pr_2.exe
+D:\VS\Pr_2\Pr_2\bin\Debug\Pr_2.pdb
+D:\VS\Pr_2\Pr_2\obj\Debug\Pr_2.csprojAssemblyReference.cache
+D:\VS\Pr_2\Pr_2\obj\Debug\Pr_2.Form1.resources
+D:\VS\Pr_2\Pr_2\obj\Debug\Pr_2.Properties.Resources.resources
+D:\VS\Pr_2\Pr_2\obj\Debug\Pr_2.csproj.GenerateResource.cache
+D:\VS\Pr_2\Pr_2\obj\Debug\Pr_2.csproj.CoreCompileInputs.cache
+D:\VS\Pr_2\Pr_2\obj\Debug\Pr_2.exe
+D:\VS\Pr_2\Pr_2\obj\Debug\Pr_2.pdb
