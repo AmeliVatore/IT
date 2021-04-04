@@ -1,0 +1,10 @@
+D:\VS\Pr_8\Pr_8\bin\Debug\Pr_8.exe.config
+D:\VS\Pr_8\Pr_8\bin\Debug\Pr_8.exe
+D:\VS\Pr_8\Pr_8\bin\Debug\Pr_8.pdb
+D:\VS\Pr_8\Pr_8\obj\Debug\Pr_8.csprojAssemblyReference.cache
+D:\VS\Pr_8\Pr_8\obj\Debug\Pr_8.Form1.resources
+D:\VS\Pr_8\Pr_8\obj\Debug\Pr_8.Properties.Resources.resources
+D:\VS\Pr_8\Pr_8\obj\Debug\Pr_8.csproj.GenerateResource.cache
+D:\VS\Pr_8\Pr_8\obj\Debug\Pr_8.csproj.CoreCompileInputs.cache
+D:\VS\Pr_8\Pr_8\obj\Debug\Pr_8.exe
+D:\VS\Pr_8\Pr_8\obj\Debug\Pr_8.pdb
