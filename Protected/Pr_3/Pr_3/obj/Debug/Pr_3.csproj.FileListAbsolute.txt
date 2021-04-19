@@ -1,0 +1,17 @@
+D:\VS\Pr_3\Pr_3\obj\Debug\Pr_3.csprojAssemblyReference.cache
+D:\VS\Pr_3\Pr_3\obj\Debug\Pr_3.Properties.Resources.resources
+D:\VS\Pr_3\Pr_3\obj\Debug\Pr_3.csproj.GenerateResource.cache
+D:\VS\Pr_3\Pr_3\obj\Debug\Pr_3.csproj.CoreCompileInputs.cache
+D:\VS\Pr_3\Pr_3\bin\Debug\Pr_3.exe.config
+D:\VS\Pr_3\Pr_3\bin\Debug\Pr_3.exe
+D:\VS\Pr_3\Pr_3\bin\Debug\Pr_3.pdb
+D:\VS\Pr_3\Pr_3\obj\Debug\Pr_3.exe
+D:\VS\Pr_3\Pr_3\obj\Debug\Pr_3.pdb
+C:\Users\student\source\repos\Pr_3\Pr_3\bin\Debug\Pr_3.exe.config
+C:\Users\student\source\repos\Pr_3\Pr_3\bin\Debug\Pr_3.exe
+C:\Users\student\source\repos\Pr_3\Pr_3\bin\Debug\Pr_3.pdb
+C:\Users\student\source\repos\Pr_3\Pr_3\obj\Debug\Pr_3.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Pr_3\Pr_3\obj\Debug\Pr_3.Properties.Resources.resources
+C:\Users\student\source\repos\Pr_3\Pr_3\obj\Debug\Pr_3.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Pr_3\Pr_3\obj\Debug\Pr_3.exe
+C:\Users\student\source\repos\Pr_3\Pr_3\obj\Debug\Pr_3.pdb

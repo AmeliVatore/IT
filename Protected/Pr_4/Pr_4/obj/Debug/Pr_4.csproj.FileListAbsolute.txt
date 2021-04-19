@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\Pr_4\Pr_4\bin\Debug\Pr_4.exe.config
+C:\Users\student\source\repos\Pr_4\Pr_4\bin\Debug\Pr_4.exe
+C:\Users\student\source\repos\Pr_4\Pr_4\bin\Debug\Pr_4.pdb
+C:\Users\student\source\repos\Pr_4\Pr_4\obj\Debug\Pr_4.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Pr_4\Pr_4\obj\Debug\Pr_4.Properties.Resources.resources
+C:\Users\student\source\repos\Pr_4\Pr_4\obj\Debug\Pr_4.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Pr_4\Pr_4\obj\Debug\Pr_4.exe
+C:\Users\student\source\repos\Pr_4\Pr_4\obj\Debug\Pr_4.pdb
