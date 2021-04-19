@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\Pr_10\Pr_10\bin\Debug\Pr_10.exe.config
+C:\Users\student\source\repos\Pr_10\Pr_10\bin\Debug\Pr_10.exe
+C:\Users\student\source\repos\Pr_10\Pr_10\bin\Debug\Pr_10.pdb
+C:\Users\student\source\repos\Pr_10\Pr_10\obj\Debug\Pr_10.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Pr_10\Pr_10\obj\Debug\Pr_10.Form1.resources
+C:\Users\student\source\repos\Pr_10\Pr_10\obj\Debug\Pr_10.Properties.Resources.resources
+C:\Users\student\source\repos\Pr_10\Pr_10\obj\Debug\Pr_10.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Pr_10\Pr_10\obj\Debug\Pr_10.exe
+C:\Users\student\source\repos\Pr_10\Pr_10\obj\Debug\Pr_10.pdb
